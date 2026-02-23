@@ -1,6 +1,13 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/214802304?s=200&v=4" alt="Nexus Nature Logo" width="150"/>
-  <h1>🌿 Welcome to Nexus Nature 🌿</h1>
+  <h1>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌿%20Welcome%20to%20Nexus%20Nature%20🌿;🌿%20Welcome%20to%20Nexus%20Nature%20🌿;&font=Fira%20Code&center=true&width=600&height=45&color=008000&vCenter=true&size=35">
+</a>  
+  </h1>
+
+
+  
   <p><b>Pioneering the Future of Precision Agriculture & Smart IoT</b></p>
 
   [![Website](https://img.shields.io/badge/Website-nexusnature.com-success?style=for-the-badge&logo=google-earth)](https://nexusnature.com/)
@@ -40,17 +47,8 @@ At **Nexus Nature**, we bridge the gap between advanced technology and sustainab
 Welcome to our engineering hub! Feel free to explore our public repositories, tools, and benchmarks:
 
 * **[Universal ESP32 RS485 Soil Sensor Library](#):** A plug-and-play auto-detect C++ library for standardizing Chinese Modbus soil sensors (VWC, NPK, pH).
-* **[SmartFarm IoT Architecture](#):** An enterprise-grade, distributed MQTT network utilizing ESP32 hubs, Modbus sensors, and Home Assistant to manage multi-line irrigation.
-* **[Smart Greenhouse Dual-Control System](#):** A comprehensive A/B testing infrastructure comparing traditional manual farming with smart sensor-driven automation.
-* **[Smart Plant Evaporation Monitor](#):** A highly precise gravimetric analysis system combining HX711 load cells (with temperature compensation) and Modbus soil sensors to scientifically track water evaporation.
-
 ---
 
 ## Connect With Us
-Explore our commercial solutions and cloud platforms:
-* **Corporate Website:** [nexusnature.com](https://nexusnature.com/)
-* **Client Cloud Portal:** [nexusnature.cloud](https://nexusnature.cloud/index/)
-
-<div align="center">
-  <i>"Cultivating innovation, byte by byte, drop by drop."</i>
-</div>
+* [nexusnature.com](https://nexusnature.com/)
+* [nexusnature.cloud](https://nexusnature.cloud/index/)
