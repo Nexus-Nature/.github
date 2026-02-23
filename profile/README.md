@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/214802304?s=200&v=4" alt="Nexus Nature Logo" width="150"/>
+  <img src="https://nexusnature.com/wp-content/uploads/2025/07/Logo-no-slug.png" alt="Nexus Nature Logo" width="250"/>
   <h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌿%20Welcome%20to%20Nexus%20Nature%20🌿;🌿%20Welcome%20to%20Nexus%20Nature%20🌿;&font=Fira%20Code&center=true&width=600&height=45&color=008000&vCenter=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌿%20Welcome%20to%20Nexus%20Nature%20🌿%20;🌿%20Welcome%20to%20Nexus%20Nature%20🌿%20;&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&size=35">
 </a>  
   </h1>
 
