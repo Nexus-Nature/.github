@@ -1,54 +1,102 @@
 <div align="center">
-  <img src="https://nexusnature.com/wp-content/uploads/2025/07/Logo-no-slug.png" alt="Nexus Nature Logo" width="250"/>
-  <h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌿%20Welcome%20to%20Nexus%20Nature%20🌿%20;🌿%20Welcome%20to%20Nexus%20Nature%20🌿%20;&font=Fira%20Code&center=true&width=600&height=45&color=FFFFFF&vCenter=true&size=35">
-</a>  
-  </h1>
 
+<a href="https://nexusnature.com">
+  <img
+    src="https://nexusnature.com/wp-content/uploads/2025/07/Logo-no-slug.png"
+    alt="Nexus Nature"
+    width="220"
+  />
+</a>
 
-  
-  <p><b>Pioneering the Future of Precision Agriculture & Smart IoT</b></p>
+# Nexus Nature
 
-  [![Website](https://img.shields.io/badge/Website-nexusnature.com-success?style=for-the-badge&logo=google-earth)](https://nexusnature.com/)
-  [![Cloud Dashboard](https://img.shields.io/badge/Cloud-nexusnature.cloud-blue?style=for-the-badge&logo=icloud)](https://nexusnature.cloud/index/)
-  [![Location](https://img.shields.io/badge/Location-Amman,%20Jordan-red?style=for-the-badge&logo=google-maps)](#)
+### Intelligent systems for precision agriculture
+
+We combine field sensing, embedded systems, automation, and data intelligence  
+to help agriculture become more productive, efficient, and sustainable.
+
+[![Website](https://img.shields.io/badge/Website-nexusnature.com-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexusnature.com/)
+[![Cloud Dashboard](https://img.shields.io/badge/Cloud-nexusnature.cloud-1976D2?style=for-the-badge&logo=icloud&logoColor=white)](https://nexusnature.cloud/index/)
+![Location](https://img.shields.io/badge/Amman-Jordan-C62828?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 </div>
 
 ---
 
-## About Us
-At **Nexus Nature**, we bridge the gap between advanced technology and sustainable agriculture. We engineer industrial-grade IoT solutions, automated greenhouses, and precision soil monitoring systems. Our mission is to empower farmers and researchers with data-driven insights to optimize water usage, increase crop yield, and automate farm management.
+## What we build
 
-## Our Core Engineering Domains
-* **Smart Agriculture:** Automated irrigation, gravimetric evaporation tracking, and dual-control greenhouses.
-* **Embedded Systems (IoT):** Custom ESP32/Arduino firmware, RTOS, and robust edge-computing hardware.
-* **Industrial Protocols:** Deep expertise in RS485 Modbus, I2C, SPI, and custom sensor integrations (Trubner SMT100, NPK, Load Cells).
-* **Telemetry & Cloud:** Seamless data pipelines using MQTT, Home Assistant, Cloudflare tunnels, and custom web dashboards.
+Nexus Nature develops connected agricultural systems that transform field measurements into practical decisions and automated actions.
 
----
-
-## Technologies & Tools We Use
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-F6822A?style=for-the-badge&logo=PlatformIO&logoColor=white" />
-</p>
+| Area | What we do |
+|---|---|
+| **Precision agriculture** | Soil monitoring, gravimetric evaporation tracking, intelligent irrigation, and greenhouse automation |
+| **Embedded and edge systems** | ESP32 and Arduino firmware, real-time control, sensor interfaces, and reliable field hardware |
+| **Industrial connectivity** | RS485 Modbus, MQTT, I²C, SPI, and custom integrations for agricultural sensors |
+| **Data and cloud platforms** | Telemetry pipelines, dashboards, analytics, alerts, and remote system management |
+| **Research and validation** | Experimental design, data analysis, technical publications, and reproducible results |
 
 ---
 
-## Featured Open-Source Projects
+## Featured project: Expert Farmer
 
-Welcome to our engineering hub! Feel free to explore our public repositories, tools, and benchmarks:
+**Expert Farmer** is a connected precision-agriculture platform spanning field hardware, embedded firmware, applications, analytics, system design, and research.
 
-* **[Universal ESP32 RS485 Soil Sensor Library](#):** A plug-and-play auto-detect C++ library for standardizing Chinese Modbus soil sensors (VWC, NPK, pH).
+```text
+Field sensors → ESP32 edge system → Application and cloud → Data analysis → Research
+```
+
+| Component | Purpose |
+|---|---|
+| [**Expert Farmer App**](https://github.com/YOUR-GITHUB-ORG/expert-farmer-app) | Application layer, monitoring interface, and user experience |
+| [**Expert Farmer ESP32**](https://github.com/YOUR-GITHUB-ORG/expert-farmer-esp32) | Embedded firmware, sensor acquisition, connectivity, and field control |
+| [**Expert Farmer Data Analysis**](https://github.com/YOUR-GITHUB-ORG/expert-farmer-data-analysis) | Data processing, experiments, visualizations, and agricultural insights |
+| [**Expert Farmer Paper**](https://github.com/YOUR-GITHUB-ORG/expert-farmer-paper) | Research paper, methodology, technical findings, and supporting material |
+| [**Expert Farmer System Design**](https://github.com/YOUR-GITHUB-ORG/Expert-Farmer-Visio) | Architecture diagrams, workflows, and Visio design files |
+
+> These repositories share the organization property `project: expert-farmer`.
+
 ---
 
-## Connect With Us
-* [nexusnature.com](https://nexusnature.com/)
-* [nexusnature.cloud](https://nexusnature.cloud/index/)
+## Technology stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
+
+---
+
+## Engineering principles
+
+- **Field reliability:** Systems must remain dependable under real agricultural conditions.
+- **Interoperability:** Open protocols and modular components prevent unnecessary vendor lock-in.
+- **Measurable impact:** Engineering decisions should improve water efficiency, crop health, or operational reliability.
+- **Reproducibility:** Research, analysis, and validation methods should be documented clearly.
+- **Responsible automation:** Farmers and operators remain informed and in control.
+
+---
+
+## Explore Nexus Nature
+
+- Visit our website: [nexusnature.com](https://nexusnature.com/)
+- Access the cloud platform: [nexusnature.cloud](https://nexusnature.cloud/index/)
+- Browse our repositories: [GitHub repositories](https://github.com/orgs/YOUR-GITHUB-ORG/repositories)
+- Learn about Expert Farmer through the repositories listed above
+
+---
+
+<div align="center">
+
+**Building practical technology for smarter and more sustainable agriculture.**
+
+[Website](https://nexusnature.com/) · [Cloud platform](https://nexusnature.cloud/index/) · [Repositories](https://github.com/orgs/YOUR-GITHUB-ORG/repositories)
+
+</div>
